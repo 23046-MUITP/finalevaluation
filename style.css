@@ -1,0 +1,75 @@
+#logo{
+    padding-right: 50%;
+}
+a{
+    text-decoration: none;
+    padding-left: 2%;
+}
+#headline{text-align: center;
+          
+}
+#heading text{margin-top: 0%;
+              padding-top: 0%;
+              color: rgb(0, 251, 255);
+}s
+#PRODUCTBEST{text-align: center;}
+.productqualitiespart1{display: flex;
+                       
+}
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.product-box {
+    width: calc(33.33% - 20px); 
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ddd; 
+    padding: 10px;
+}
+img{width: 100px;
+    border: 10cm;}
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f4f4f4;
+        color: #333;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+        
+    }
+    .about {
+        background: #fff;
+        color: #333;
+        margin: 40px 0;
+        padding: 50px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+    }
+    .about h1 {
+        color: #e8491d;
+        margin-bottom: 20px;
+        font-size: 2.5em;
+    }
+    .about p {
+        font-size: 1.2em;
+        line-height: 1.6;
+    }
+    .about .highlight {
+        font-weight: bold;
+        color: #e8491d;
+    }
+    .about .emphasis {
+        background-color: #eaeaea;
+        padding: 10px;
+        border-radius: 5px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    
